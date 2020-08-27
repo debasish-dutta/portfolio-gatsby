@@ -2,6 +2,7 @@
   "name": "debasish_portfolio_blog",
   "private": true,
   "description": "portfolio site created using gatsby and antd",
+  "homepage": "",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -11,6 +12,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {

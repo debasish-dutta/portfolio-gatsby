@@ -16,11 +16,11 @@ module.exports = [
   {
     resolve: 'gatsby-plugin-manifest',
     options: {
-      name: 'Rolwin Reevan',
-      short_name: 'Rolwin Reevan',
+      name: 'Debasish Dutta',
+      short_name: 'ddmasterdon',
       start_url: '/',
       background_color: '#304CFD',
-      theme_color: '#304CFD',
+      theme_color: '#c4e7f7',
       display: 'standalone',
       icon: 'src/images/icon.png', // This path is relative to the root of the site.
       legacy: true, // this will add apple-touch-icon links to <head>. Required for
