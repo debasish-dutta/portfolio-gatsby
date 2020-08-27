@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://debasish0dutta.github.io/sitemap.xml
+Host: https://debasish0dutta.github.io
